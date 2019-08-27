@@ -1,0 +1,11 @@
+C:\Users\Nero\source\repos\CSharp_OOP\CSharp_OOP\bin\Debug\netcoreapp2.2\CSharp_OOP.deps.json
+C:\Users\Nero\source\repos\CSharp_OOP\CSharp_OOP\bin\Debug\netcoreapp2.2\CSharp_OOP.runtimeconfig.json
+C:\Users\Nero\source\repos\CSharp_OOP\CSharp_OOP\bin\Debug\netcoreapp2.2\CSharp_OOP.runtimeconfig.dev.json
+C:\Users\Nero\source\repos\CSharp_OOP\CSharp_OOP\bin\Debug\netcoreapp2.2\CSharp_OOP.dll
+C:\Users\Nero\source\repos\CSharp_OOP\CSharp_OOP\bin\Debug\netcoreapp2.2\CSharp_OOP.pdb
+C:\Users\Nero\source\repos\CSharp_OOP\CSharp_OOP\obj\Debug\netcoreapp2.2\CSharp_OOP.csprojAssemblyReference.cache
+C:\Users\Nero\source\repos\CSharp_OOP\CSharp_OOP\obj\Debug\netcoreapp2.2\CSharp_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Nero\source\repos\CSharp_OOP\CSharp_OOP\obj\Debug\netcoreapp2.2\CSharp_OOP.AssemblyInfoInputs.cache
+C:\Users\Nero\source\repos\CSharp_OOP\CSharp_OOP\obj\Debug\netcoreapp2.2\CSharp_OOP.AssemblyInfo.cs
+C:\Users\Nero\source\repos\CSharp_OOP\CSharp_OOP\obj\Debug\netcoreapp2.2\CSharp_OOP.dll
+C:\Users\Nero\source\repos\CSharp_OOP\CSharp_OOP\obj\Debug\netcoreapp2.2\CSharp_OOP.pdb
