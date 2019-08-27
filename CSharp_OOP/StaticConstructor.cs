@@ -22,10 +22,10 @@ namespace CSharp_OOP
         }
 
         //Entry point    
-        static void Main(string[] args)
-        {
-            //static Method calling    
-            StaticConstructor.getData();
-        }
+        //static void Main(string[] args)
+        //{
+        //    //static Method calling    
+        //    StaticConstructor.getData();
+        //}
     }
 }
