@@ -16,12 +16,12 @@ namespace CSharp_OOP
 
         public void setName(string first, string last)
         {
-            name = first + "" + last;
+            name = first + " " + last;
         }
 
         public void setName(string first, string middle, string last)
         {
-            name = first + "" + middle + " " + last;
+            name = first + " " + middle + " " + last;
         }
 
         public void getName()
@@ -30,16 +30,16 @@ namespace CSharp_OOP
         }
 
         //Entry point    
-        static void Main(string[] args)
-        {
-            FunOverload obj = new FunOverload();
+        //static void Main(string[] args)
+        //{
+        //    FunOverload obj = new FunOverload();
 
-            obj.setName("barack");
-            obj.setName("barack ", " obama ");
-            obj.setName("barack ", "hussian", "obama");
+        //    obj.setName("Barack");
+        //    obj.setName("Barack", "Obama");
+        //    obj.setName("Barack", "Hussian", "Obama");
 
-            obj.getName();
+        //    obj.getName();
 
-        }
+        //}
     }
 }
