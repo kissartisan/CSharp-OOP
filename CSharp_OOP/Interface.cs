@@ -57,17 +57,17 @@ namespace CSharp_OOP
 
     class interfaceDemo
     {
-        static void Main(string[] args)
-        {
-            interfaceTest obj = new interfaceTest();
-            obj.methodA();
-            obj.methodB();
-            obj.methodC();
+        //static void Main(string[] args)
+        //{
+        //    interfaceTest obj = new interfaceTest();
+        //    obj.methodA();
+        //    obj.methodB();
+        //    obj.methodC();
 
-            interfaceTest2 obj2 = new interfaceTest2();
-            obj2.methodA();
-            obj2.methodB();
-            obj2.methodC();
-        }
+        //    interfaceTest2 obj2 = new interfaceTest2();
+        //    obj2.methodA();
+        //    obj2.methodB();
+        //    obj2.methodC();
+        //}
     }
 }
