@@ -11,6 +11,11 @@ namespace CSharp_OOP
         void methodB();
     }
 
+    public interface abc : xyz
+    {
+        void methodC();
+    }
+
     // interface method implementation    
     class interfaceTest : xyz
     {
@@ -18,22 +23,35 @@ namespace CSharp_OOP
         {
             Console.WriteLine("methodA");
         }
+
         public void methodB()
         {
             Console.WriteLine("methodB");
         }
+
+        public void methodC()
+        {
+            Console.WriteLine("methodC");
+        }
     }
 
+
     // interface method implementation    
-    class interfaceTest2 : xyz
+    class interfaceTest2 : abc
     {
         public void methodA()
         {
             Console.WriteLine("methodC");
         }
+
         public void methodB()
         {
             Console.WriteLine("methodD");
+        }
+
+        public void methodC()
+        {
+            Console.WriteLine("methodE");
         }
     }
 
@@ -44,10 +62,12 @@ namespace CSharp_OOP
             interfaceTest obj = new interfaceTest();
             obj.methodA();
             obj.methodB();
+            obj.methodC();
 
             interfaceTest2 obj2 = new interfaceTest2();
             obj2.methodA();
             obj2.methodB();
+            obj2.methodC();
         }
     }
 }
