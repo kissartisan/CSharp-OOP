@@ -16,10 +16,10 @@ namespace CSharp_OOP
             Console.WriteLine(y);
         }
 
-        static void Main(string[] args)
-        {
-            //function calling directly    
-            StaticClass.calcute();
-        }
+        //static void Main(string[] args)
+        //{
+        //    //function calling directly    
+        //    StaticClass.calcute();
+        //}
     }
 }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CSharp_OOP
 {
-    public partial class partialclassDemo
+    public partial class PartialClass
     {
         public void method1()
         {
