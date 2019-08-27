@@ -31,14 +31,14 @@ namespace CSharp_OOP
         // End of Encapsulation    
 
         //Entry point    
-        static void Main(string[] args)
-        {
-            //instance created    
-            Encapsulation obj = new Encapsulation(20);
+        //static void Main(string[] args)
+        //{
+        //    //instance created    
+        //    Encapsulation obj = new Encapsulation(20);
 
-            obj.MySquare();
+        //    obj.MySquare();
 
-        }
+        //}
 
     }
 }
