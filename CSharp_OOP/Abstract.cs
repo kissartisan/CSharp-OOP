@@ -23,10 +23,10 @@ namespace CSharp_OOP
 
     class abstractClass
     {
-    //    static void Main(string[] args)
-    //    {
-    //        // class instance    
-    //        new test().displayData();
-    //    }
-    //}
+        //static void Main(string[] args)
+        //{
+        //    // class instance    
+        //    new test().displayData();
+        //}
+    }
 }
