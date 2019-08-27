@@ -38,13 +38,13 @@ namespace CSharp_OOP
         }
 
         //Entry point    
-        static void Main(string[] args)
-        {
-            //instance created    
-            Destructor obj = new Destructor();
+        //static void Main(string[] args)
+        //{
+        //    //instance created    
+        //    Destructor obj = new Destructor();
 
-            obj.getData();
+        //    obj.getData();
 
-        }
+        //}
     }
 }
