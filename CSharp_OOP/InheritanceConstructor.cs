@@ -33,16 +33,18 @@ namespace CSharp_OOP
             Console.WriteLine("this property belong to Child");
         }
     }
+
+
     class Inheritance
     {
         //Entry point    
-        static void Main(string[] args)
-        {
-            //Here Child object can access both class methods    
-            Child cObj = new Child();
-            cObj.FatherMethod();
-            cObj.ChildMethod();
-            Console.Read();
-        }
+        //static void Main(string[] args)
+        //{
+        //    //Here Child object can access both class methods    
+        //    Child cObj = new Child();
+        //    cObj.FatherMethod();
+        //    cObj.ChildMethod();
+        //    Console.Read();
+        //}
     }
 }
