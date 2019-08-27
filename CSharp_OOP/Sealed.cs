@@ -7,7 +7,7 @@ namespace CSharp_OOP
     sealed class SealedClass
     {
 
-       void myfunv();
+       //void myfunv();
     }
 
 
