@@ -33,11 +33,11 @@ namespace CSharp_OOP
 
     class virtualClass
     {
-        static void Main(string[] args)
-        {
-            // class instance    
-            new myDerived().VirtualMethod();
-            Console.Read();
-        }
+        //static void Main(string[] args)
+        //{
+        //    // class instance    
+        //    new myDerived().VirtualMethod();
+        //    Console.Read();
+        //}
     }
 }
